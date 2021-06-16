@@ -1,0 +1,28 @@
+Para usarlo necesita desde la cmd 
+acceder a la ubicación de la carpeta
+una vez allí:
+
+-Escriba analizador en la cmd
+-Cuando le pida el nombre del archivo 
+a analizar digite: archivoPrueba.c
+
+
+
+Dicho archivo contiene lo siguiente:
+
+
+
+int main()
+{
+int numero=2;
+while (numero<=10)
+{
+	numero+++;  //EXISTE UN ERROR EN LA LÍNEA 8 DEBIDO A UN + DE MÁS
+	printf("EJEMPLO DE PRUEBA: %d",cont);
+
+	}
+return 0;
+}
+
+
+
